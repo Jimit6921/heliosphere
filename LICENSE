@@ -1,0 +1,39 @@
+CERN Open Hardware Licence Version 2 - Weakly Reciprocal
+
+This licence agreement and limited permission to copy, modify and redistribute this hardware design is effective immediately upon your download of this design or use of this design.
+
+Preamble
+
+This licence agreement is based on the CERN Open Hardware Licence Version 2 - Weakly Reciprocal, which is a copyleft hardware license. It is designed to promote collaboration and sharing in the field of open hardware design.
+
+Licence Scope
+
+This licence applies to the hardware designs, specifications, and related documentation in this repository, including but not limited to CAD files, schematics, and firmware code.
+
+Permissions
+
+Subject to the conditions below, you may copy, modify, and redistribute this hardware design.
+
+Conditions
+
+1. You must retain this licence with all copies and modifications of this design.
+
+2. If you make modifications to this design, you must make those modifications available under the same licence.
+
+3. If you use this design in a product, you must make the design files for that product available under the same licence.
+
+4. You must include a notice in any product that uses this design, stating that it is based on this open hardware design.
+
+Disclaimer
+
+This design is provided "as is" without warranty of any kind. The authors are not liable for any damages arising from the use of this design.
+
+For software components, the following applies:
+
+GNU Affero General Public License Version 3 or later
+
+This program is free software: you can redistribute it and/or modify it under the terms of the GNU Affero General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU Affero General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program. If not, see <https://www.gnu.org/licenses/>.
