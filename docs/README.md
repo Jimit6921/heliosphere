@@ -193,10 +193,3 @@ The technology to harvest it **exists today**.
 The only missing piece is **the will to build it as a commons—not a commodity**.
 
 This spec ensures that if it’s built, **it cannot be betrayed**.
-
-Would you like:
-- The **Python simulation code** for beam routing?
-- The **full CAD package** for a 1-kW GRN node?
-- The **smart contract template** for beam authorization?
-
-Say the word. We go deeper.
